@@ -27,3 +27,6 @@
   - nickname_effective_from_date: 01/08/2018
   user_id: Faker
   new_nickname: "Faker|ZZ"
+- nickname_effective_from_date: 03/09/2018
+  user_id: fear
+  new_nickname: Fearles=MyS=
